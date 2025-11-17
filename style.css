@@ -1,0 +1,244 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    background-color: rgb(110, 24, 24);
+    height: 800px;
+    width: 100%;
+}
+
+.upper {
+    height: 200px;
+    width: 100%;
+}
+
+.img {
+    height: 150px;
+    margin: 50px;
+    margin-left: 17%;
+}
+
+.hd {
+    height: 650px;
+    margin-top: -75px;
+    padding: 20px;
+}
+
+.hd h1 {
+    color: white;
+    font-size: 90px;
+    font-family: sans-serif;
+    font-weight: 1000;
+    margin-left: 200px;
+}
+
+.sub {
+    color: black;
+    margin-top: -80px;
+    padding-left: 170px;
+    font-size: 44px;
+    font-weight: 800;
+    font-family: sans-serif;
+    margin-left: 30px;
+}
+
+.hd p {
+    margin-left: 200px;
+    color: white;
+    align-items: center;
+    font-family: 'roboto', sans-serif;
+    font-size: 20px;
+}
+.triangle {
+      width: 0%;
+    height: 90;
+    border-left: 120px solid transparent;
+    border-right: 14px solid transparent;
+    /* border-right: 50px solid transparent; */
+    border-bottom: 80px solid #fff;
+    float: right;
+    z-index: 1;
+    margin-top: -80px;
+    margin-right: -12px;
+}
+.white{
+    height: 3500px;  
+    width: 100%;
+}
+.first{
+    height: 600px;
+    width: 100%;
+}
+.pic{
+    display: flex;
+    margin: 80px;
+    padding-left: 100px;
+}
+.pic img{
+    height: 60px;
+    padding-top: 52px;
+}
+
+.pic h1{
+    font-family: sans-serif;
+    font-weight: 1000;
+    font-size: 60px;
+
+}
+.main5{
+    height: 300px;
+    margin-top: -3%;
+    width: 99%;
+    display: flex;
+    writing-mode: horizontal-tb;
+}
+.dortu{
+    height: 130px;
+    width: 250px;
+    margin-left: 10%;
+}
+.dortu img{
+    border: 3px;
+    height: 130px;
+    padding-left: 25px;
+}
+.dortu h1{
+    color: rgb(145, 53, 53);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.dortu h2{
+    color: black;
+    padding-left: 50px;
+    font-size: 30px;
+    font-family: sans-serif;
+         margin-top: -8%;
+
+}
+.dortu2{
+    height: 130px;
+    width: 250px;
+    margin-left: 0%;
+}
+.dortu2 img{
+     border: 3px;
+    height: 130px;
+    padding-left: 25px;
+}
+.dortu2 h1{
+    color: rgb(145, 53, 53);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.dortu2 h2{
+    color: black;
+    padding-left: 50px;
+    font-size: 30px;
+    font-family: sans-serif;
+         margin-top: -8%;
+
+}
+.dortu3{
+    height: 130px;
+    width: 250px;
+    margin-left: 0%;
+}
+.dortu3 img{
+   border: 3px;
+    height: 130px;
+        padding-left: 25px;
+
+}
+.dortu3 h1{
+    color: rgb(145, 53, 53);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.dortu3 h2{
+    color: black;
+    padding-left: 50px;
+    font-size: 30px;
+    font-family: sans-serif;
+         margin-top: -8%;
+
+}
+.dortu4{
+    height: 130px;
+    width: 250px;
+    margin-left: 0%;
+}
+.dortu4 img{
+   border: 3px;
+    height: 130px;
+        padding-left: 25px;
+}
+.dortu4 h1{
+    color: rgb(145, 53, 53);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.dortu4 h2{
+    color: black;
+     padding-left: 50px;
+    font-size: 30px;
+    font-family: sans-serif;
+         margin-top: -8%;
+
+}
+.first5{
+    height: 650px;
+}
+.dortu5{
+    height: 130px;
+    width: 250px;
+    margin-left: 0%;
+}
+.dortu5 img{
+   border: 3px;
+    height: 130px;
+        padding-left: 25px;
+
+}
+.dortu5 h1{
+    color: rgb(145, 53, 53);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.dortu5 h2{
+    color: black;
+     padding-left: 50px;
+     margin-top: -8%;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.lower{
+    background-color: ;
+    border: 3px solid black;
+    height: 500px;
+    background-color: rgb(110, 24, 24);
+    padding: 10px;
+}
+.lower h1{
+    font-size: 50px;
+    font-weight: 1000;
+    line-height: 1.1;
+    color: white;
+    font-family: 'roboto', sans-serif;
+    margin: 200px;
+justify-content: center;
+align-items: center;
+}
+.triangle {
+      width: 0%;
+    height: 90;
+    border-left: 120px solid transparent;
+    border-right: 14px solid transparent;
+    /* border-right: 50px solid transparent; */
+    border-bottom: 80px solid #fff;
+    float: right;
+    z-index: 1;
+    margin-top: -80px;
+    margin-right: -12px;
+}
